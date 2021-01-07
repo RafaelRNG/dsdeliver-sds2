@@ -2,7 +2,7 @@ import "./styles.css";
 import { ReactComponent as Logo } from "./logo.svg";
 
 function Navbar() {
-    //56:22
+    //1:16:15
     return (
         <nav className="main-navbar">
             <Logo />
