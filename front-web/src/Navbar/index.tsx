@@ -3,7 +3,7 @@ import { ReactComponent as Logo } from "./logo.svg";
 import { Link } from "react-router-dom";
 
 function Navbar() {
-    //1:40:15
+    //11:45
     return (
         <nav className="main-navbar">
             <Logo />
