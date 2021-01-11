@@ -102,7 +102,7 @@ public class OrderDTO implements Serializable {
         this.total = total;
     }
 
-    public List<ProductDTO> getProductDTOS() {
+    public List<ProductDTO> getProducts() {
         return productDTOS;
     }
 }
